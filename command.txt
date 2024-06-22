@@ -1,0 +1,496 @@
+    1  ifconfig
+    2  sudo apt install net-tools
+    3  ifconfig
+    4  ls
+    5  sudo apt install vscode.deb
+    6  clear
+    7  --version
+    8  -version
+    9  ver
+   10  hostnamectl
+   11  clear
+   12  ls
+   13  ll
+   14  cd..
+   15  cd ..
+   16  ls
+   17  clear
+   18  ls
+   19  ls -l
+   20  ls -h?
+   21  ls -h
+   22  ls -lh
+   23  pwd
+   24  cd..
+   25  ls -l
+   26  cd desktop
+   27  cd Desktop
+   28  ls -l
+   29  clear
+   30  ls
+   31  mkdir BAHL
+   32  ls -l
+   33  cd ..
+   34  cd /
+   35  cd Desktop
+   36  ls
+   37  cd home
+   38  ls
+   39  cd salman
+   40  ls
+   41  cd..
+   42  cd ..
+   43  ls
+   44  l
+   45  cls?
+   46  ll
+   47  clear
+   48  ls
+   49  ll
+   50  cd salman
+   51  ll
+   52  cd ..
+   53  ll
+   54  cd home
+   55  ll
+   56  cd salman
+   57  cd ..
+   58  clwar
+   59  clear
+   60  ll
+   61  cd home
+   62  ls
+   63  cd salman
+   64  ll
+   65  cd Desktop
+   66  ll
+   67  cd ..
+   68  ll
+   69  clear
+   70  ll
+   71  cd home
+   72  cd /
+   73  ll
+   74  cd home
+   75  ll
+   76  cd salman
+   77  ll
+   78  clear
+   79  ll
+   80  cd ..
+   81  ls
+   82  ll
+   83  cd home
+   84  dir
+   85  sudo mkdir hello
+   86  ls
+   87  cd hello
+   88  ls
+   89  adduser hussain
+   90  sudo adduser hussain
+   91  cd ..
+   92  ls
+   93  ll
+   94  cd home
+   95  ll
+   96  cd hussain
+   97  ls
+   98  ll
+   99  cd home
+  100  pwd
+  101  cd ..
+  102  pwd
+  103  ll
+  104  cd home
+  105  pwd
+  106  cd home
+  107  ll
+  108  cd hussain
+  109  sudo cd hussain
+  110  ll
+  111  cd salman
+  112  pwd
+  113  ll
+  114  clear
+  115  ll
+  116  cd ..
+  117  ll
+  118  del hello
+  119  ls -h
+  120  ll
+  121  cd salman
+  122  ll
+  123  cd Desktop
+  124  ll
+  125  cd ..
+  126  ll
+  127  ls -l
+  128  alsais
+  129  alias
+  130  clear
+  131  cls
+  132  clear
+  133  ll
+  134  cd home
+  135  pwd
+  136  ls
+  137  cd Desktop/
+  138  ls
+  139  cd BAHL
+  140  ls
+  141  toucn file1.txt
+  142  touch file_1.txt
+  143  ls
+  144  ls -l
+  145  clear
+  146  ls -l
+  147  mv file_1.txt file_2.txt
+  148  ls -l
+  149  mkdir new_folder
+  150  ls
+  151  mv file_2.txt ./new_folder
+  152  ls
+  153  cd new_folder/
+  154  ls
+  155  ld
+  156  ls
+  157  cd ..\
+  158  cd ..
+  159  ld
+  160  ls
+  161  cd 
+  162  ls
+  163  cd ..
+  164  ll
+  165  rm -r hello
+  166  sudo rm -r hello
+  167  ll
+  168  vi
+  169  ls
+  170  ls -h >> salman.txt
+  171  ll
+  172  cd salman
+  173  ls
+  174  cd Desktop/
+  175  ls
+  176  cd BAHL/
+  177  LS
+  178  ls
+  179  ls -l >> salman.txt
+  180  cat salman.txt
+  181  ls
+  182  ll
+  183  pwd
+  184  cat salman.txt
+  185  clear
+  186  echo "hello"
+  187  ln -s salman.txt salman1.txt
+  188  ls -l
+  189  clear
+  190  ls -l
+  191  man ls
+  192  help
+  193  help ls
+  194  uname
+  195  whoami
+  196  uname -a
+  197  ls
+  198  ls -l
+  199  cp salman.txt salman1.txt
+  200  ls -l
+  201  rm -r new_folder
+  202  ls -l
+  203  rm salman.txt
+  204  ls -l
+  205  rm salman1.txt
+  206  ls
+  207  ls -l
+  208  clear
+  209  echo "salman abbas" > hello_1.txt
+  210  ls -l
+  211  copy hello_1.txt hello_2.txt
+  212  cp hello_1.txt hello_2.txt
+  213  cp hello_1.txt hello_3.txt
+  214  cp hello_1.txt hello_4.txt
+  215  ls -l
+  216  tar -cvr group hello_1.txt hello_2.txt hello_3.txt hello_4.txt
+  217  tar -cvf group hello_1.txt hello_2.txt hello_3.txt hello_4.txt
+  218  ls -l
+  219  mv group ../.
+  220  cd ..
+  221  ls
+  222  dir
+  223  tar -xvf group
+  224  ls -lh
+  225  cd BAHL
+  226  dir
+  227  zip compress1 hello_1.txt hello_2.txt hello_3.txt hello_4.txt
+  228  cat compress1.zip 
+  229  claer
+  230  clear
+  231  ls -l
+  232  unzip compress1.zip 
+  233  ls -l
+  234  ls -l ! grep _1.txt
+  235  ls -l | grep _1.txt
+  236  cat hello_2.txt 
+  237  cat hello_2.tx | grep salm
+  238  cat hello_2.txt | grep salm
+  239  man grep
+  240  clear
+  241  ls -h
+  242  diff hello_1.txt hello_2.txt 
+  243  env
+  244  echo $0
+  245  export db_name = oracle
+  246  export db_name  oracle
+  247  echo $db_name
+  248  man export
+  249  export db_name=oracle
+  250  echo $db_name
+  251  unset db_name
+  252  echo $db_name
+  253  ps
+  254  talk
+  255  ps
+  256  top
+  257  clear
+  258  ls -h
+  259  ls -l
+  260  umask
+  261  ifconfig
+  262  traceroute
+  263  sudo apt install traceroute
+  264  wget www.google.com
+  265  ls
+  266  cat index.html
+  267  iptables
+  268  cls
+  269  clear
+  270  cd..
+  271  cd
+  272  dir
+  273  cd Downloads/
+  274  dir
+  275  sudo apt install vscode.deb
+  276  sudo apt install ./code_1.90.0-1717531825_amd64.deb
+  277  clear
+  278  \ls
+  279  clear
+  280  ls
+  281  ll
+  282  sudo apt install ./vscode.deb
+  283  sudo apt-get install extremetuxracer
+  284  cal
+  285  sudo apt install cal
+  286  cal
+  287  sudo apt install call
+  288  sudo apt install ncal
+  289  cal
+  290  cal 2024
+  291  clear
+  292  alias
+  293  alias sal="cal june 2024"
+  294  sal
+  295  alias
+  296  unalias sal
+  297  sal
+  298  whereis
+  299  whereis ls
+  300  whatis ls
+  301  whereis whereis
+  302  cat /usr/share/man/man1/whereis.1.gz
+  303  cls
+  304  clear
+  305  cd
+  306  cd ..
+  307  ll
+  308  cd root
+  309  cd home
+  310  ls
+  311  cd ..
+  312  cd bin\
+  313  ll
+  314  cd ..
+  315  ll
+  316  bash
+  317  ls
+  318  cd home
+  319  dir
+  320  cd salman
+  321  dir
+  322  cd Documents/
+  323  dir
+  324  bash hello.sh
+  325  ls
+  326  code .
+  327  bash hello.sh
+  328  hello.sh
+  329  hello
+  330  ./hello.sh
+  331  ls
+  332  ls -l
+  333  chmod 777 hello.sh
+  334  ./hello.sh
+  335  l
+  336  cd Desktop/
+  337  ls
+  338  ll
+  339  EXPORT CURRENT_USER="SALMAN"
+  340  export  CURRENT_USER="SALMAN"
+  341  echo $current_user
+  342  echo $CURRENT_USER
+  343  ls
+  344  cd..
+  345  cd ..
+  346  cd Documents
+  347  ./hello.sh
+  348  cd ..
+  349  dir
+  350  cd Downloads/
+  351  ls
+  352  ll
+  353  clear
+  354  ll
+  355  sudo apt-install google-chrome-stable_current_amd64.deb 
+  356  sudo apt install  google-chrome-stable_current_amd64.deb 
+  357  sudo apt install  ./google-chrome-stable_current_amd64.deb 
+  358  exit
+  359  git --version
+  360  sudo apt-get update
+  361  sudo apt-get install git
+  362  get --version
+  363  git --version
+  364  git config --global user.name "salman abbas"
+  365  git config --global user.email "salman.abbas@bahl.com"
+  366  exit
+  367  uname
+  368  whoamin
+  369  whoami
+  370  ll
+  371  cd Desktop
+  372  dir
+  373  cd BAHL
+  374  LL
+  375  ll
+  376  rm index.html 
+  377  ll
+  378  rm compress1.zip
+  379  ll
+  380  ls -l
+  381  ls
+  382  clear
+  383  alias
+  384  ifconfig
+  385  man apt
+  386  claer\
+  387  clear
+  388  ifconfig
+  389  ssh-keygen -t rsa -b 4096 -C "smhussain2024@gmail.com"
+  390  ssh-add ~/.ssh/id_rsa
+  391  ll
+  392  ssh-keygen -t rsa -b 4096 -C "smhussain2024@gmail.com"
+  393  eval "$(ssh-agent -s)"
+  394  ssh-add ~/.ssh/id_rsa
+  395  cat ~/.ssh/id_rsa.pub
+  396  cd Desktop/
+  397  get clone git@github.com:smhussain2024/digital.git
+  398  git clone git@github.com:smhussain2024/digital.git
+  399  git config -l
+  400  clear
+  401  ls
+  402  cd BAHL
+  403  LS
+  404  ls
+  405  cd ..
+  406  ls
+  407  cd digital/
+  408  ls
+  409  pwd
+  410  git status
+  411  clear
+  412  echo "this is line one in file one" > file
+  413  ls
+  414  git status
+  415  mv file file1.txt
+  416  git status
+  417  cat file1.txt
+  418  clear
+  419  git status
+  420  git add file1.txt
+  421  git status
+  422  git add .
+  423  git status
+  424  git commit -m "task 1 completed"
+  425  git push
+  426  git branch
+  427  git diff
+  428  get branch branch_1
+  429  git branch branch_1
+  430  git branch
+  431  git checkout branch_1
+  432  git branch
+  433  git status
+  434  git checkout -b branch_1
+  435  git checkout -b branch_2
+  436  git branch
+  437  git push
+  438  git log
+  439  clear
+  440  git branch
+  441  git checkout main
+  442  git branch
+  443  ls
+  444  git checkout branch1
+  445  git checkout branch_1
+  446  git stauts
+  447  git status
+  448  git echo "salman abbas" file100.txt
+  449  echo "salman abbas" > file100.txt
+  450  git add .
+  451  git commit
+  452  git commit -m "new file100 addition"
+  453  git status
+  454  git checkout main
+  455  git branch
+  456  git checkout branch_1
+  457  git checkout main
+  458  git merge branch_1
+  459  git branch
+  460  git checkout branch_1
+  461  git checkout main
+  462  git status
+  463  git checkout branch_1
+  464  git status
+  465  git branch
+  466  git push
+  467  git remote -v
+  468  git push --set-upstream origin branch_1
+  469  git branch
+  470  git checkout branch_2
+  471  git push
+  472  git push --set-upstream origin branch_2
+  473  git branch
+  474  git checkout mainh
+  475  git checkout main
+  476  git push
+  477  git branch
+  478  git fetch
+  479  git status
+  480  git pull
+  481  git log
+  482  git diff branch_1 branch_2
+  483  git remote -v
+  484  get branch --delete branch_1
+  485  git branch --delete branch_1
+  486  git branch --delete branch_2
+  487  git pull branch_1
+  488  git fetch branch_1
+  489  git branch
+  490  git pull origin branch_1
+  491  git branch
+  492  git fetch origin 
+  493  git branch -r
+  494  git checkout branch_1
+  495  git branch
+  496  history > command.txt
